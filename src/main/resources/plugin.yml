@@ -1,0 +1,6 @@
+name: Pets
+version: '${project.version}'
+main: tech.itexpress.pets.Main
+api-version: 1.19
+commands:
+  pet:
